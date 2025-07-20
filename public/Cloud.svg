@@ -1,0 +1,13 @@
+<svg
+  viewBox="0 0 200 200"
+  width="200"
+  height="200"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="#60A5FA"
+  className="opacity-60"
+>
+  <path d="M60,60 C30,10 170,10 140,60 
+           C190,80 160,130 110,120 
+           C90,140 70,140 50,120 
+           C10,130 10,80 60,60 Z" />
+</svg>
